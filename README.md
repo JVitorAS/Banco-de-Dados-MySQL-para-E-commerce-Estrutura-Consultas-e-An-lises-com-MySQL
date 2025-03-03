@@ -1,0 +1,2 @@
+# Banco-de-Dados-MySQL-para-E-commerce-Estrutura-Consultas-e-An-lises-com-MySQL
+Esse projeto envolve a criação e análise de um banco de dados SQL para um e-commerce, utilizando MySQL para armazenar informações de clientes, pedidos, produtos, vendedores e pagamentos. Além da estruturação do banco, ele inclui consultas otimizadas para análise de vendas, desempenho dos vendedores, categorias mais vendidas e padrões de pagamento.
