@@ -7,9 +7,9 @@ from tkinter import ttk
 
 # Função para buscar dados
 def fetch_data(sql):
-    conn = connection.conn()  # Conectar ao banco de dados
-    read = pd.read_sql(sql, conn)  # Ler dados SQL no pandas DataFrame
-    conn.close()  # Fechar conexão
+    conn = connection.conn()
+    read = pd.read_sql(sql, conn)
+    conn.close()
     return read
 
 def toggle_fullscreen(event=None):
